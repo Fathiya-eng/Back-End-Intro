@@ -1,0 +1,14 @@
+C:\Users\fathi\OneDrive\Documents\swiq-solution\Solution05\Project-Solution01\bin\Debug\net8.0\Project-Solution01.exe
+C:\Users\fathi\OneDrive\Documents\swiq-solution\Solution05\Project-Solution01\bin\Debug\net8.0\Project-Solution01.deps.json
+C:\Users\fathi\OneDrive\Documents\swiq-solution\Solution05\Project-Solution01\bin\Debug\net8.0\Project-Solution01.runtimeconfig.json
+C:\Users\fathi\OneDrive\Documents\swiq-solution\Solution05\Project-Solution01\bin\Debug\net8.0\Project-Solution01.dll
+C:\Users\fathi\OneDrive\Documents\swiq-solution\Solution05\Project-Solution01\bin\Debug\net8.0\Project-Solution01.pdb
+C:\Users\fathi\OneDrive\Documents\swiq-solution\Solution05\Project-Solution01\obj\Debug\net8.0\Project-Solution01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fathi\OneDrive\Documents\swiq-solution\Solution05\Project-Solution01\obj\Debug\net8.0\Project-Solution01.AssemblyInfoInputs.cache
+C:\Users\fathi\OneDrive\Documents\swiq-solution\Solution05\Project-Solution01\obj\Debug\net8.0\Project-Solution01.AssemblyInfo.cs
+C:\Users\fathi\OneDrive\Documents\swiq-solution\Solution05\Project-Solution01\obj\Debug\net8.0\Project-Solution01.csproj.CoreCompileInputs.cache
+C:\Users\fathi\OneDrive\Documents\swiq-solution\Solution05\Project-Solution01\obj\Debug\net8.0\Project-Solution01.dll
+C:\Users\fathi\OneDrive\Documents\swiq-solution\Solution05\Project-Solution01\obj\Debug\net8.0\refint\Project-Solution01.dll
+C:\Users\fathi\OneDrive\Documents\swiq-solution\Solution05\Project-Solution01\obj\Debug\net8.0\Project-Solution01.pdb
+C:\Users\fathi\OneDrive\Documents\swiq-solution\Solution05\Project-Solution01\obj\Debug\net8.0\Project-Solution01.genruntimeconfig.cache
+C:\Users\fathi\OneDrive\Documents\swiq-solution\Solution05\Project-Solution01\obj\Debug\net8.0\ref\Project-Solution01.dll
