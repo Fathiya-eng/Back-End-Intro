@@ -125,9 +125,29 @@
 
 
             //===============================================================
-            #region MyRegion
+            #region String Builder 
 
+            Console.WriteLine("Please Enter a word: ");
+            string word = Console.ReadLine();
 
+            bool CorrectWord = true;
+
+            for (int i = 0; i < word.Length/2; i++)
+            {
+
+                if (word[i] != word[word.Length - 1 - i])
+                {
+                    CorrectWord = false;
+                    break;
+                }
+            }
+
+            if (CorrectWord) 
+                Console.WriteLine("It is Palindrom");
+                else
+                    Console.WriteLine("It is not Palindrom");
+            
+        
             #endregion
 
 
