@@ -294,7 +294,7 @@
                 Console.Write("Enter PIN: ");
                 pin = Console.ReadLine();
 
-                if (pin == "9999")
+                if (pin == "1234")
                     break;
 
                 attempts++;
@@ -362,11 +362,13 @@
                         break;
 
                     case 4:
-                        Console.WriteLine("Transactions:");
+                        Console.WriteLine("\nTransactions:");
                         for (int i = 0; i < index; i++)
                         {
                             Console.WriteLine(types[i] + " - " + amounts[i]);
                         }
+
+                        Console.WriteLine("\nFinal Balance: " + balance);
                         return;
 
                     default:
