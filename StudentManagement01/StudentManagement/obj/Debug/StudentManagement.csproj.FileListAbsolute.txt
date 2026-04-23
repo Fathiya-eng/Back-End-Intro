@@ -1,0 +1,10 @@
+C:\Users\fathi\OneDrive\Documents\swiq-solution\StudentManagement01\StudentManagement\bin\Debug\StudentManagement.exe.config
+C:\Users\fathi\OneDrive\Documents\swiq-solution\StudentManagement01\StudentManagement\bin\Debug\StudentManagement.exe
+C:\Users\fathi\OneDrive\Documents\swiq-solution\StudentManagement01\StudentManagement\bin\Debug\StudentManagement.pdb
+C:\Users\fathi\OneDrive\Documents\swiq-solution\StudentManagement01\StudentManagement\obj\Debug\StudentManagement.csproj.AssemblyReference.cache
+C:\Users\fathi\OneDrive\Documents\swiq-solution\StudentManagement01\StudentManagement\obj\Debug\StudentManagement.Form1.resources
+C:\Users\fathi\OneDrive\Documents\swiq-solution\StudentManagement01\StudentManagement\obj\Debug\StudentManagement.Properties.Resources.resources
+C:\Users\fathi\OneDrive\Documents\swiq-solution\StudentManagement01\StudentManagement\obj\Debug\StudentManagement.csproj.GenerateResource.cache
+C:\Users\fathi\OneDrive\Documents\swiq-solution\StudentManagement01\StudentManagement\obj\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\fathi\OneDrive\Documents\swiq-solution\StudentManagement01\StudentManagement\obj\Debug\StudentManagement.exe
+C:\Users\fathi\OneDrive\Documents\swiq-solution\StudentManagement01\StudentManagement\obj\Debug\StudentManagement.pdb
